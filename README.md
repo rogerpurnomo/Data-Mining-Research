@@ -1,13 +1,13 @@
 # Data-Mining-Research
 
 📊 Optimizing Social Commerce using Association Rule Mining
-A data mining project that applies Association Rule Mining (ARM) and Market Basket Analysis (MBA) to analyze purchasing behavior in TikTok Shop.
+A data mining research project that applies Association Rule Mining (ARM) and Market Basket Analysis (MBA) to analyze purchasing behavior in TikTok Shop.
 
 📌 Overview
 This project explores how data mining techniques can improve:
-🛍️ Customer shopping experience
-📈 Vendor sales strategies
-🤖 Product recommendation systems
+- Customer shopping experience
+- Vendor sales strategies
+- Product recommendation systems
 The research focuses on TikTok Shop, a discovery-driven e-commerce platform, where user behavior is influenced by content and trends.
 
 🎯 Problem Statement
